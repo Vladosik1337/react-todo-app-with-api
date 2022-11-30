@@ -1,4 +1,13 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# React Todo App with API (complete)
+
+Tool to organize your day.
+Try it yourself - [DEMO LINK](https://Vladosik1337.github.io/react_todo-app-with-api/)
+Made on React with Typesript using functional components and hooks.
+All changes implement by api.
+
+##  Key features
+- Authorization by email and saving your personal tasks.
+- Adding and deleting tasks
+- Renaming tasks by double-clicking.
+- Filter Todos by Active/Completed status
+- Clear all completed todos.
